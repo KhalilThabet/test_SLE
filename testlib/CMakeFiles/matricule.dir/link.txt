@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmatricule.a  CMakeFiles/matricule.dir/matricule.c.o
+/usr/bin/ranlib libmatricule.a
